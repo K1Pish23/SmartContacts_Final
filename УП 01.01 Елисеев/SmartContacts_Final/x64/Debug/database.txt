@@ -1,0 +1,4 @@
+Eliseev Daniil Romanovich 7 495 1234567 15 05 1990 danya@gmail.com 0
+Petrova Elena Sergeevna 7 812 7654321 20 10 1985 elena.p@gmail.com 1
+Sidorov Alexey Petrovich 7 900 1112233 01 01 2000 sidor@yandex.ru 2
+Grishin Maksim Andreevich 1 202 5550199 12 12 1992 maksimka.grishin07@gmail.com 3
